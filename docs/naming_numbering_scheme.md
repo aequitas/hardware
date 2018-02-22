@@ -96,3 +96,14 @@ The vendor product number exists of [CRfppMmm/vv] with:
   * vv - variant
 
 For questions, contact [Crownstone](https://crownstone.rocks/team/).
+
+# EAN
+
+| Name                           | VPN         | EAN           |
+| --                             | --          | --            |
+| Crownstone Built-in Kit Zero   | CR101M01/01 | 7091047158574 |
+| Crownstone Built-in Kit US     | CR101M02/01 | 7091048067899 | 
+| Crownstone Built-in Kit One    | CR101M01/02 | 7091042712580 | 
+| Crownstone Plugs Kit           | CR102M01/01 | 7091048321175 |
+| Crownstone Guidestone Kit      | CR201M01/01 | 7091047327949 |
+
